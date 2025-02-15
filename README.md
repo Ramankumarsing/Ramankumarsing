@@ -8,9 +8,9 @@
 
 👨‍💻 All of my projects are available at https://github.com/Ramankumarsing/Ramankumarsing.git
 
-- 🔭 I’m currently working on [Reactjs](Working on it...)
+- 🔭 I’m currently working on Web Penetration Tester (Cybersecurity).
 
-- 🤝 I’m looking for help with **Backend project( or sources to learn )**
+- 🤝 I’m looking for help with ** Web penetration Tester (Bug Bounty Hunting)  ADVICE TO GROW IN THIS CAREER **
 
 - 📫 How to reach me **kumarsinghraman5@gmail.com**
 
