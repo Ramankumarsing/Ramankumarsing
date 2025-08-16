@@ -63,7 +63,7 @@ I am also open to connecting with:
 - 🍔 **Online Food Ordering UI** — HTML, CSS, JS  
 - 📊 **Data Analytics (ongoing)** — ETL, SQL, Power BI/Tableau
 
-> 🔗 All projects: **https://github.com/Ramankumarsing/Ramankumarsing**
+> 🔗 All projects: **[https://github.com/Ramankumarsing/Ramankumarsing](https://github.com/Ramankumarsing?tab=repositories)**
 
 ---
 
