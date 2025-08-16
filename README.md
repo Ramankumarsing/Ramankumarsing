@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="bannerimagesraman/banner.png" alt="Raman Kumar Singh — Cybersecurity | Web Dev | Data Analytics" />
+  <img src="bannerimages/raman-banner.png" alt="Raman Kumar Singh — Cybersecurity | Web Dev | Data Analytics" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Raman Kumar Singh</h1>
