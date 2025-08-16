@@ -41,11 +41,19 @@ I am also open to connecting with:
 
 ### ⚒️ Languages & Tools
 <p>
+ <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48"/>
+  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="48" height="48"/>
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="48" height="48"/>
+<img src="assets/owasp.png" alt="OWASP" width="48" height="48"/>
+
+
+
 </p>
+
 
 ---
 
