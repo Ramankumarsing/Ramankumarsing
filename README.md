@@ -34,8 +34,6 @@ I am also open to connecting with:
   <a href="https://www.linkedin.com/in/ramankumar-singh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
   </a>
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30" />
-  </a>
   <!-- Add other valid links if you want -->
 </p>
 
