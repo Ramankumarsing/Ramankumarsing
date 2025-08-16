@@ -15,10 +15,17 @@ B.Tech Computer Science Graduate | Aspiring Web Penetration Tester | Cybersecuri
 ---
 
 ### 🤝 Career Interests
-I’m looking to connect with:
+💼 Career Interests  
+I am seeking opportunities in:  
+- Offensive Cybersecurity & Web Penetration Testing (VAPT, Bug Bounty)  
+- IT Security / Technical Support roles  
+- Data Analytics & Secure Application Development  
+
+I am also open to connecting with:  
 - Security professionals & ethical hackers  
 - Data analysts & problem solvers  
-- Developers building secure, scalable apps
+- Developers building secure, scalable applications  
+
 
 ---
 
