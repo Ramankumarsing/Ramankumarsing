@@ -44,7 +44,7 @@ I’m a **B. Tech Computer Science Graduate** passionate about bridging **Cybers
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="30" alt="GitHub"/>
   </a>
   <a href="mailto:kumarsinghraman5@gmail.com">
-    <img src="https://raw.githubusercontent.com/Ramankumarsing/Ramankumarsing/main/assets/icons/gmail.png" width="40" height="30" alt="Email"/>
+    <img src="https://raw.githubusercontent.com/Ramankumarsing/Ramankumarsing/main/assets/icons/gmail.svg" width="40" height="30" alt="Email"/>
   </a>
 </p>
 
