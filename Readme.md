@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ramankumarsing/Ramankumarsing/main/bannerimages/new_banner_image_2.png"
+  <img src="https://raw.githubusercontent.com/Ramankumarsing/Ramankumarsing/main/bannerimages/banner_image_2.png"
        alt="Raman Kumar Singh — Cybersecurity (VAPT) | Cybersecurity Analyst | Web Development"
        width="100%" />
 </p>
