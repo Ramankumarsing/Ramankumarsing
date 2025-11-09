@@ -1,9 +1,10 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ramankumarsing/Ramankumarsing/main/bannerimages/banner_image_2.png"
-       alt="Raman Kumar Singh — Cybersecurity (VAPT) | Cybersecurity Analyst | Web Development"
+       alt="Raman Kumar Singh — Cybersecurity (VAPT) | Cybersecurity Analyst | Data Analytics | Web Development"
        width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Raman Kumar Singh</h1>
 <h3 align="center">Cybersecurity (VAPT) | Cybersecurity Analyst | Web Development</h3>
