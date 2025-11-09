@@ -98,14 +98,22 @@ I’m a **B. Tech Computer Science Graduate** passionate about bridging **Cybers
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats & Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramankumarsing&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramankumarsing&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramankumarsing&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramankumarsing&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramankumarsing&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramankumarsing&theme=tokyonight" height="150" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-VAPT%20%7C%20OWASP%20Top%2010-red?style=for-the-badge" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-SQL%20%7C%20Power%20BI%20%7C%20Excel-blue?style=for-the-badge" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/Web%20Development-React%20%7C%20HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge" alt="Web Development"/>
+</p>
+
 
 ---
 
