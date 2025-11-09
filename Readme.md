@@ -54,4 +54,4 @@
 
 ---
 
-⭐️ *Open to learning, collaborations, and real-world security challenges!*
+⭐️ *Open to Jobs & learning, collaborations, and real-world security challenges!*
