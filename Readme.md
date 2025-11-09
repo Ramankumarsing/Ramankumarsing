@@ -1,15 +1,16 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ramankumarsing/Ramankumarsing/main/bannerimages/new%20image/New%20Banner%20Image-2.png"
+  <img src="https://raw.githubusercontent.com/Ramankumarsingh/Ramankumarsingh/main/bannerimages/new%20image/New%20Banner%20Image-2.png"
        alt="Raman Kumar Singh — Cybersecurity (VAPT) | Cybersecurity Analyst | Data Analytics | Web Development"
        width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Raman Kumar Singh</h1>
-<h3 align="center">Cybersecurity (VAPT & Analyst) | Data Analytics | Web Development</h3>
+<h3 align="center">Cybersecurity (VAPT & Analyst) | Data Analytics | Front End Web Development</h3>
 
 <p align="center">
-  <i>Building secure, data-driven, and scalable solutions with a hacker’s mindset 🧠</i>
+ <i>Combining cybersecurity, analytics, and development to create impactful digital systems ⚙️</i>
+
 </p>
 
 ---
@@ -23,14 +24,14 @@
 
 ### 👨‍💻 About Me  
 
-I’m a **B.Tech Computer Science Graduate** passionate about bridging **Cybersecurity**, **Data Analytics**, and **Web Technology**.  
+I’m a **B. Tech Computer Science Graduate** passionate about bridging **Cybersecurity**, **Data Analytics**, and **Web Technology**.  
 
 🛡️ In **Cybersecurity**, I specialize in **Vulnerability Assessment & Penetration Testing (VAPT)** and hands-on testing using **Burp Suite, OWASP ZAP, and Nmap**, with a strong grasp of **OWASP Top 10** and **Bug Bounty methodologies**.  
 📊 In **Data Analytics**, I work with **SQL, Power BI, and Excel** to uncover data insights and support evidence-based decision-making.  
 💻 In **Web Development**, I build secure, responsive user interfaces using **React.js, HTML, CSS, and JavaScript**.  
 🚀 Currently exploring **Python automation for analytics & threat detection**, and **security analytics using Power BI**.  
 
-> I believe in connecting data, development, and defense — to build systems that are intelligent, secure, and efficient.
+> I believe in connecting data, development, and defence — to build systems that are intelligent, secure, and efficient.
 
 ---
 
@@ -52,7 +53,7 @@ I’m a **B.Tech Computer Science Graduate** passionate about bridging **Cyberse
 ### ⚙️ Languages & Tools  
 <p align="center">
   <!-- Cybersecurity -->
-  <img src="https://raw.githubusercontent.com/Ramankumarsing/Ramankumarsing/main/assets/icons/burpsuite.png" width="48" height="48" alt="Burp Suite"/>
+ <img src="https://raw.githubusercontent.com/Ramankumarsing/Ramankumarsing/main/assets/icons/burpsuite.png?raw=true" width="48" height="48" alt="Burp Suite"/>
   <img src="https://nmap.org/images/nmap-logo-256x256.png" width="48" height="48" alt="Nmap"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
@@ -75,7 +76,7 @@ I’m a **B.Tech Computer Science Graduate** passionate about bridging **Cyberse
 ### 💼 Featured Projects  
 
 #### 🛡️ Cybersecurity & VAPT
-- 🔍 **Web Application Pentesting Lab** — Built a custom lab for testing OWASP vulnerabilities with Burp Suite, Nmap & DVWA.  
+- 🔍 **Web Application Pentesting Lab** — Built a custom Portswinger lab for testing OWASP vulnerabilities with Burp Suite, Nmap & DVWA.  
 - 🧠 **Bug Bounty Simulation** — Practised recon and vulnerability scanning on demo web apps.
 
 #### 📊 Data Analytics
@@ -91,11 +92,9 @@ I’m a **B.Tech Computer Science Graduate** passionate about bridging **Cyberse
 ### 🎓 Certifications & Internships  
 
 - 📘 **IBM: Excel Basics for Data Analysis** — *Coursera (Nov 2025)*  
-- 🔐 **Introduction to Cybersecurity** — *Cisco Networking Academy*  
+- 🔐 **Offensive and Defensive Cybersecurity** — *Hacxie Infosec PVT lTD*  
 - 💻 **Front-End Development Internship** — *ONGC (Oil and Natural Gas Corporation)*  
   > Developed responsive and user-friendly web interfaces during a live project phase.  
-- 📊 **Data Visualization Internship** — *ONGC*  
-  > Created analytical dashboards and visual reports using Power BI and Excel to support internal data insights.
 
 ---
 
@@ -111,10 +110,10 @@ I’m a **B.Tech Computer Science Graduate** passionate about bridging **Cyberse
 ---
 
 ### 🌱 Currently Exploring
-- Threat Modeling & Web Exploitation  
-- Python for Data Analytics & Automation  
-- Advanced Power BI Reporting  
-- Security Automation Frameworks
+- Cybersecurity (VAPT, Threat Analysis, OWASP Top 10)  
+- Data Analytics (SQL, Power BI, Visualisation)  
+- Technical Roles in IT & System Support  
+- Secure and Data-Driven Development Practices
 
 ---
 
