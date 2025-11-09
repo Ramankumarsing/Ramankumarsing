@@ -5,7 +5,7 @@
        width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Raman Kumar Singh</h1>
+<h1 align="center">Raman Kumar Singh</h1>
 <h3 align="center">Cybersecurity (VAPT & Analyst) | Data Analytics | Front End Web Development</h3>
 
 <p align="center">
