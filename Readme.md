@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Raman Kumar Singh</h1>
-<h3 align="center">Cybersecurity (VAPT & Analyst) | Data Analytics | Front End Web Development</h3>
+<h3 align="center">Cybersecurity (VAPT & Analyst) | Data Analytics | Front End Web Development | AI Researcher </h3>
 
 <p align="center">
  <i>Combining cybersecurity, analytics, and development to create impactful digital systems ⚙️</i>
